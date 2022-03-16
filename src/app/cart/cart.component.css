@@ -1,0 +1,40 @@
+.cart-block{
+    margin: 10px;;
+    padding : 10px;
+    text-align: center;;
+}
+.cartimg{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+.cart-text{
+    font-size: 50px;
+    font-weight: bold;
+    vertical-align: middle;;
+}
+.bottom-container{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+.remove-item{
+    font-size: 12px;
+    color: red;
+    cursor: pointer;;
+}
+.imgcontainer {
+    text-align: left;
+    margin: 10px 0 10px 0;
+  }
+  img.avatar {
+    width: 10%;
+    border-radius: 20%;
+  }
+  td{
+      text-align: center;
+  }
+  th{
+      text-align: center;
+  }
+
